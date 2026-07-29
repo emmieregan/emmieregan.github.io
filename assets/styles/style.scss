@@ -1,0 +1,49 @@
+body{
+    background-color: inherit;
+}
+
+/* People section styles */
+.people-section {
+  margin: 1.5rem 0;
+}
+
+.people-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.person-card {
+  width: 160px;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  background: #fff;
+}
+
+.person-photo{
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 8px;
+  display: block;
+}
+
+.avatar-initials{
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 8px;
+  background: #2b6cb0;
+  color: #fff;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.person-name{font-weight:700;margin:4px 0 0;}
+.person-title{font-size:0.9rem;color:#666;margin:0;}

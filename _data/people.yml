@@ -1,0 +1,25 @@
+# People data
+# Add photo filenames relative to assets/images/people/ (e.g. emmie-regan.jpg).
+# Example entries are included below — replace with real names/photos as needed.
+PIs:
+  - name: Emmie Regan
+    title: Principal Investigator
+    photo: emmie-regan.jpg
+
+Faculty Fellows:
+  - name: Jane Doe
+    title: Faculty Fellow
+    photo: jane-doe.jpg
+
+Student Researchers 2026:
+  - name: Alice Smith
+    title: Student Researcher (2026)
+    photo: alice-smith.jpg
+  - name: Bob Chen
+    title: Student Researcher (2026)
+    photo: bob-chen.jpg
+
+Student Researchers 2027:
+  - name: Carla Patel
+    title: Student Researcher (2027)
+    photo: carla-patel.jpg
