@@ -5,11 +5,23 @@ PIs:
   - name: Emmie Regan
     title: Principal Investigator
     photo: emmie-regan.jpg
+  - name: Placeholder
+    title: Open position
+  - name: Placeholder
+    title: Open position
+  - name: Placeholder
+    title: Open position
 
 Faculty Fellows:
   - name: Jane Doe
     title: Faculty Fellow
     photo: jane-doe.jpg
+  - name: Placeholder
+    title: Open position
+  - name: Placeholder
+    title: Open position
+  - name: Placeholder
+    title: Open position
 
 Student Researchers 2026:
   - name: Alice Smith
@@ -18,8 +30,18 @@ Student Researchers 2026:
   - name: Bob Chen
     title: Student Researcher (2026)
     photo: bob-chen.jpg
+  - name: Placeholder
+    title: Open position
+  - name: Placeholder
+    title: Open position
 
 Student Researchers 2027:
   - name: Carla Patel
     title: Student Researcher (2027)
     photo: carla-patel.jpg
+  - name: Placeholder
+    title: Open position
+  - name: Placeholder
+    title: Open position
+  - name: Placeholder
+    title: Open position
