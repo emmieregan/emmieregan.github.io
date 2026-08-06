@@ -5,15 +5,60 @@ permalink: /about/
 weight: 1
 ---
 
-# **About Me**
-
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+<div class="row py-4">
+  <div class="col-12">
+    <h1 class="display-4">Research</h1>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+  </div>
 </div>
-<div class="row">
-{% include about/timeline.html %}
+
+<div class="row py-4">
+  <div class="col-12">
+    <h2 class="text-center">Engineering Education</h2>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+    <div class="border" style="height: 220px;"></div>
+  </div>
+</div>
+
+<div class="row py-4">
+  <div class="col-12">
+    <h2 class="text-center">Human-Centered ML</h2>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+    <div class="border" style="height: 220px;"></div>
+  </div>
+</div>
+
+<div class="row py-4">
+  <div class="col-12">
+    <h1 class="display-4">Publications</h1>
+
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+    <hr>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+    <hr>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+    <hr>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+    <hr>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+    <hr>
+    <p class="text-muted">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+  </div>
+</div>
+
+<div class="row py-4">
+  <div class="col-12">
+    <h2 class="text-center">Posters</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="border" style="height: 150px;"></div>
+      </div>
+      <div class="col-md-4">
+        <div class="border" style="height: 150px;"></div>
+      </div>
+      <div class="col-md-4">
+        <div class="border" style="height: 150px;"></div>
+      </div>
+    </div>
+  </div>
 </div>
