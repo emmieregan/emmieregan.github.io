@@ -1,9 +1,6 @@
 ### Site Settings ###
 title               : SHAPE Lab
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+description         : "Socio-technical and Human-centered AI for Pedagogy and Education"
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : emmieregan/emmieregan.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -25,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Emmie Regan
-  image             : https://images.unsplash.com/photo-1556636530-6b7482d80e3d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  image             : "/assets/images/logo.png"
   # behance           : your_username
 # dribbble          : your_username
   email             : er111@wellesley.edu

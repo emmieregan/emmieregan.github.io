@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-lg navbar-themed px-0">
+  <a class="navbar-brand d-flex align-items-center py-0 my-0" href="{{ '/' | relative_url }}" style="margin-left: 0; padding-left: 0;">
+    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }}" style="height: 64px; width: auto; display: block;" />
+  </a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-1x fa-bars text-themed"></i>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto">
+      <a class="nav-item nav-link" href="{{ '/about/' | relative_url }}">About</a>
+      <a class="nav-item nav-link" href="{{ '/people/' | relative_url }}">People</a>
+      <a class="nav-item nav-link" href="{{ '/resources/' | relative_url }}">Resources</a>
+      <a class="nav-item nav-link" href="{{ '/workshop/' | relative_url }}">Workshop</a>
+      <a class="nav-item nav-link" href="{{ '/echominds/' | relative_url }}">EchoMinds</a>
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+    </div>
+  </div>
+</nav>

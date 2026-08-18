@@ -1,47 +1,61 @@
 # People data
 # Add photo filenames relative to assets/images/people/ (e.g. emmie-regan.jpg).
 # Example entries are included below — replace with real names/photos as needed.
-PIs:
-  - name: Emmie Regan
-    title: Principal Investigator
-    photo: emmie-regan.jpg
-  - name: Placeholder
-    title: Open position
-  - name: Placeholder
-    title: Open position
-  - name: Placeholder
-    title: Open position
+Faculty Researchers:
+  - name: Dr. Paul Ruvolo
+    title: Professor of Computer Science, Olin College of Engineering
+    photo: paul_photo.jpg
+  - name: Dr. Leah Horgan
+    title: Consultant for NSF EducateAI grant
+    photo: l_photo.jpg
+  - name: Dr. Caitrin Lynch
+    title: Professor of Anthropology at Olin
+    photo: caitrin_photo.jpg
+  - name: Dr. Chelsea Andrews
+    title: Research Assistant Professor of Engineering at Tufts University
+    photo: chelsea_photo.png
+  - name: Dr. Sam Michalka
+    title: Researcher, Center for AI and Society
+    photo: sam_photo.jpg
 
 Faculty Fellows:
-  - name: Jane Doe
-    title: Faculty Fellow
-    photo: jane-doe.jpg
-  - name: Placeholder
-    title: Open position
-  - name: Placeholder
-    title: Open position
-  - name: Placeholder
-    title: Open position
+  - name: Dr. Cori Faklaris
+    title: Assistant Professor, Dept. of Software and Information Systems, College of Computing and Informatics at UNC – Charlotte
+    photo: cori_photo.jpg
+  - name: Dr. Gerald Soosairaj
+    title: Associate Teaching Professor in Computer Science and Engineering at the University of California, San Diego
+    photo: gerald_photo.jpg
+  - name: Dr. Raj Korpan
+    title: Assistant Professor of Computer Science at Hunter College of the City University of New York (CUNY)
+    photo: raj_photo.jpg
 
 Student Researchers 2026:
-  - name: Alice Smith
-    title: Student Researcher (2026)
-    photo: alice-smith.jpg
-  - name: Bob Chen
-    title: Student Researcher (2026)
-    photo: bob-chen.jpg
-  - name: Placeholder
-    title: Open position
-  - name: Placeholder
-    title: Open position
+  - name: Emmie Regan
+    title: Wellesley '26
+    photo: emmie_photo.jpg
+  - name: Khoi Nguyen
+    title: Olin '27
+    photo: khoi_photo.jpg
+  - name: Lea Voytovych
+    title: Olin '28
+    photo: lea_photo.jpg
+  - name: Prem Sethumadhavan
+    title: Olin '29
+    photo: prem_photo.jpg
+  - name: Yunzhu Chen
+    title: Olin '28
+    photo: yunzhu_photo.jpg
 
-Student Researchers 2027:
-  - name: Carla Patel
-    title: Student Researcher (2027)
-    photo: carla-patel.jpg
-  - name: Placeholder
-    title: Open position
-  - name: Placeholder
-    title: Open position
-  - name: Placeholder
-    title: Open position
+Student Researchers 2025:
+  - name: Isabela Sanchez Taipe
+    title: Wellesley College
+  - name: Ethan Alford
+    title: Wright State University
+  - name: Charles Mawn
+    title: Olin College of Engineering
+  - name: Ryan Thrasher
+    title: Olin College of Engineering
+  - name: Daniel Theunissen
+    title: Olin College of Engineering
+  - name: Zara Coakley
+    title: Olin College of Engineering
